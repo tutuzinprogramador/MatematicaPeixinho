@@ -1,0 +1,4 @@
+pode_desenhar = false
+
+
+
