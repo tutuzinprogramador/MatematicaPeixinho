@@ -1,0 +1,1 @@
+peixe_pra_desenhar = spr_peixe_bot_facil_parado

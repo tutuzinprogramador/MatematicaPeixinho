@@ -1,0 +1,1 @@
+oq_e_pra_falar = "O jogo não pode ser iniciado pois: "
